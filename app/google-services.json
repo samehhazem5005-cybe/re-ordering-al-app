@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "860790911920",
+    "firebase_url": "https://milestone-1-c4871-default-rtdb.firebaseio.com",
+    "project_id": "milestone-1-c4871",
+    "storage_bucket": "milestone-1-c4871.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860790911920:android:8143e7a85e15cd748adc75",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlSJENizdJNCQSSmJF-8JkyXKc9Gx2yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
